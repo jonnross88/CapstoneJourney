@@ -1,3 +1,20 @@
+# Data directories
+data/
+*.csv
+*.xlsx
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+
+
+# Machine learning model files
+*.pkl
+*.h5
+# VS Code specific
+.vscode/
+*.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -60,6 +77,11 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
 
 # Flask stuff:
 instance/
