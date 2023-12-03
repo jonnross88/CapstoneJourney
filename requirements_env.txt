@@ -71,6 +71,7 @@ google-cloud-storage==2.13.0
 google-crc32c==1.5.0
 google-resumable-media==2.6.0
 googleapis-common-protos==1.61.0
+graphviz==0.20.1
 greenlet==3.0.1
 grpcio==1.59.2
 grpcio-status==1.59.2
@@ -86,6 +87,7 @@ ipykernel==6.26.0
 ipython==8.17.2
 ipywidgets==8.1.1
 isoduration==20.11.0
+isort==5.12.0
 itsdangerous==2.1.2
 jedi==0.19.1
 Jinja2==3.1.2
@@ -114,6 +116,7 @@ linkify-it-py==2.0.2
 llvmlite==0.41.1
 locket==1.0.0
 lxml==4.9.3
+lz4==4.3.2
 mapclassify==2.6.1
 Markdown==3.5.1
 markdown-it-py==3.0.0
@@ -162,6 +165,7 @@ psycopg2==2.9.9
 pure-eval==0.2.2
 py-cpuinfo==9.0.0
 pyarrow==14.0.1
+pyarrow-hotfix==0.6
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycairo==1.25.1
